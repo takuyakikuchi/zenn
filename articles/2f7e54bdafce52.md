@@ -46,6 +46,8 @@ HTMLの生成タイミングがビルド時になるため、SSRよりもパフ�
 「ノー」の場合は、SSRかCSRを使用する。
 Next.jsはページごとに、SSGかSSRかを設定できる。
 
+[Click here to read the article in English.](https://takuyakikuchi.hashnode.dev/the-difference-between-csr-ssr-and-ssg)
+
 # 参照元
 - [Pre-rendering - Pre-rendering and Data Fetching | Learn Next.js](https://nextjs.org/learn/basics/data-fetching/pre-rendering)
 - [Two Forms of Pre-rendering - Pre-rendering and Data Fetching | Learn Next.js](https://nextjs.org/learn/basics/data-fetching/two-forms)
