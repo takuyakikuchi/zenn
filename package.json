@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/takuyakikuchi/zenn#readme",
   "dependencies": {
-    "zen-cli": "^0.0.2",
-    "zenn-cli": "^0.1.116"
+    "zenn-cli": "^0.1.131"
   }
 }
