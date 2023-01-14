@@ -282,4 +282,4 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:has
 
 https://developer.chrome.com/blog/has-m105/
 
-この記事は英語でもご覧いただけます: https://dev.to/takuyakikuchi/game-changer-the-arrival-of-has-boe
+This article is also available in English: https://dev.to/takuyakikuchi/game-changer-the-arrival-of-has-boe

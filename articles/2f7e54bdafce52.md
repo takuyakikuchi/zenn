@@ -5,7 +5,7 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["csr", "ssr", "ssg"]
 published: true
 ---
-[Click here to read the article in English.](https://takuyakikuchi.hashnode.dev/the-difference-between-csr-ssr-and-ssg)
+
 # CSR、SSR、SSGの違い
 ## CSR
 クライアントサイドレンダリング。
@@ -51,3 +51,5 @@ Next.jsはページごとに、SSGかSSRかを設定できる。
 - [Pre-rendering - Pre-rendering and Data Fetching | Learn Next.js](https://nextjs.org/learn/basics/data-fetching/pre-rendering)
 - [Two Forms of Pre-rendering - Pre-rendering and Data Fetching | Learn Next.js](https://nextjs.org/learn/basics/data-fetching/two-forms)
 - [SSR、SSG、Client Side Renderingの違いをまとめた - Qiita](https://qiita.com/akashixi/items/84cd79e090a283bb8c67)
+
+This article is also available in English: https://dev.to/takuyakikuchi/the-difference-between-csr-ssr-and-ssg-2e0c
