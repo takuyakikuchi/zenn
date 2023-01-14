@@ -20,7 +20,9 @@ https://developer.chrome.com/blog/has-m105/
 
 # `:has()` is 何? 🤔
 
-`:has()` 以前の CSS セレクターの指定の方向は、横方向 ➡️、またはほとんどの場合が下方向 ⬇️ でした。
+`:has()` は Parent Selector、いやそれだけに止まらない Family Selector 👨‍👩‍👧‍👦 だ！と紹介があります。
+
+どいうことかというと、`:has()` 以前の CSS セレクターの指定の方向は、横方向 ➡️、またはほとんどの場合が下方向 ⬇️ でした。
 
 ```css
 /* special クラスをもっている <li> 要素へ焦点を当てるとき(横方向) */
@@ -279,3 +281,5 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:has
 より詳しく理解したい方は、ぜひこちらをご覧ください。
 
 https://developer.chrome.com/blog/has-m105/
+
+この記事は英語でもご覧いただけます: https://dev.to/takuyakikuchi/game-changer-the-arrival-of-has-boe
